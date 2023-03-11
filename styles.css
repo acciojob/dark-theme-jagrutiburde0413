@@ -8,9 +8,9 @@ p{
 	display:flex;
 	align-content:center;
 	flex-flow:column wrap;
-	color:rgb(18,171,171);
+	color:rgb(40,249,250);
 }
-.button{
+.button_day{
 	position:absolute;
 	top:5%;
 	left:48%
