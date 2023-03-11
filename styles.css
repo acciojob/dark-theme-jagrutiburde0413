@@ -1,7 +1,21 @@
 #app{
   height:90vh;
 }
-.night{
+main{
+	position:relative;
+}
+p{
+	display:flex;
+	align-content:center;
+	flex-flow:column wrap;
+	color:rgb(18,171,171);
+}
+.button{
+	position:absolute;
+	top:5%;
+	left:48%
+}
+.dark-mode{
   background-color: black;
   color:white;
 }
