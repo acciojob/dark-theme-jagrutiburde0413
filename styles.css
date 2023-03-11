@@ -10,7 +10,7 @@ p{
 	flex-flow:column wrap;
 	color:rgb(40,249,250);
 }
-.button_day{
+.button_night{
 	position:absolute;
 	top:5%;
 	left:48%
@@ -24,7 +24,7 @@ p{
   outline:0;
 }
 
-.button_night{
+.button_day{
   background-color:blue;
   color:white; 
 }
